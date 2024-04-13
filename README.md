@@ -1,0 +1,1 @@
+making sols rng macros
