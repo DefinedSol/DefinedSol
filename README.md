@@ -1,4 +1,4 @@
-Currently a developer of a Sol`s RNG macro. 
+Currently a developer of a Sol`s RNG macro MENU. 
 
 THE SECOND WORKING MACRO!
 
