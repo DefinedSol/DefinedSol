@@ -7,3 +7,5 @@ HOW TO GET: Download https://www.tinytask.net/ then download the file (macro i g
 DONT COME TO ME SAYING IT WONT CLICK COLLECTION: USE UI NAVIGATION IN ROBLOX SETTINGS (REQUIRED!!!!!)
 
 Joining Discord server is recommended cuz of errors: https://discord.gg/kf5vDX8yBe
+
+CURRERNT ERA SUPPORT: ERA 7
